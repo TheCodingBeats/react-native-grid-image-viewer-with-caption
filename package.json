@@ -1,0 +1,36 @@
+{
+  "name": "react-native-grid-image-viewer-with-caption",
+  "version": "1.0.5",
+  "description": "A grid display for multiple images with caption which you can view on clicking in fullscreen mode and swipe through.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodingBeats/react-native-grid-image-viewer-with-caption.git"
+  },
+  "keywords": [
+    "react-native-grid-image-viewer-with-caption",
+    "react-native-grid-image-viewer",
+    "react-native-image-layout",
+    "gallery",
+    "react-native",
+    "images",
+    "album",
+    "swiper",
+    "full-screen-images",
+    "ios",
+    "android",
+    "animation",
+    "image-viewer",
+    "grid-view",
+    "grid"
+  ],
+  "author": "The Coding Beating <thecodingbeats@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCodingBeats/react-native-grid-image-viewer-with-caption/issues"
+  },
+  "homepage": "https://github.com/TheCodingBeats/react-native-grid-image-viewer-with-caption#readme"
+}
